@@ -23,7 +23,7 @@ def process_image(input_path, output_path,name,style):
     picture_processed.save(completed_save_path)
     print(f"文件已成功保存到{completed_save_path}")
     picture_processed.show()
-
+    print("hahaha")
 def main():
     parser = argparse.ArgumentParser(description="这是一个生成黑白风格图片的脚本")
     # 添加命令行参数
