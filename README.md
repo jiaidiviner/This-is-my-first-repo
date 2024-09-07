@@ -8,6 +8,7 @@
 
 ```bash
 python picture_form_converter.py "C:\Users\jiaid\Pictures\Screenshots\屏幕截图 2024-09-04 165419.png" "C:\Users\jiaid\Desktop" --name "movhhh.bmp" --style "black"
-![展示图片1](./picture/mov.bmp)
+```
+![展示图片1](./picture/mov.bmp)<br>
 ![展示图片2](./picture/jackson.jpg)
 
